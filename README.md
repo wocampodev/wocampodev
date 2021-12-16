@@ -3,21 +3,20 @@
   <a href="#">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"/>
   </a>
-  I'm Walter 👨‍💻
 </h1>
 
 <p align="center">
-  📢 Hi, I'm <b>Walter Ocampo</b>, a passionate self-taught software developer from Perú ✌️
+  📢 I'm <b>Walter Ocampo</b>, a passionate self-taught software developer from Perú ✌️
 </p>
 
 <p align="center">
-  <a href="mailto:wocampodev@gmail.com" target="blank">
+  <a href="mailto:wocampodev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wocampodev@gmail.com" height="24px" />
   </a>
-  <a href="https://www.linkedin.com/in/wocampodev" target="blank">
+  <a href="https://www.linkedin.com/in/walter-fernando-ocampo-urqu%C3%ADa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/walter-fernando-ocampo-urqu%C3%ADa/" height="24px"/>
   </a>
-  <a href="https://twitter.com/wocampodev" target="blank">
+  <a href="https://twitter.com/wocampodev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/wocampodev" height="24px"/>
   </a>
 
