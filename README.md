@@ -34,40 +34,71 @@
 
 **🎗️ I like work with**
 
-<span>
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="24px" />
-</span>
-<span>
-  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=white" height="24px" />
-</span>
-<span>
-  <img alt="React" src="https://img.shields.io/badge/-React-00D8FF?style=flat-square&logo=React&logoColor=white" height="24px" />
-</span>
-<span>
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=Vue.js&logoColor=white" height="24px" />
-</span>
+<div>
+  <span>
+    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height="24px" />
+  </span>
+  <span>
+    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=white" height="24px" />
+  </span>
+  <span>
+    <img alt="React" src="https://img.shields.io/badge/-React-00D8FF?style=flat-square&logo=React&logoColor=white" height="24px" />
+  </span>
+  <span>
+    <img alt="Vue" src="https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=Vue.js&logoColor=white" height="24px" />
+  </span>
+</div>
 
 <br />
 
 **💪 Also I know**
 
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=Angular&logoColor=white" height="24px" />
-<img alt="Node JS" src="https://img.shields.io/badge/-Node JS-539E43?style=flat-square&logo=Node.js&logoColor=white" height="24px" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white" height="24px" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat-square&logo=MongoDB&logoColor=539E43" height="24px" />
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FCCA3F?style=flat-square&logo=Firebase&logoColor=white" height="24px" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-DE4C36?style=flat-square&logo=Git&logoColor=white" height="24px" />
+<div>
+  <span>
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=Angular&logoColor=white" height="24px" />
+  </span>
+  <span>
+    <img alt="Node JS" src="https://img.shields.io/badge/-Node JS-539E43?style=flat-square&logo=Node.js&logoColor=white" height="24px" />
+  </span>
+  <span>
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white" height="24px" />
+  </span>
+  <span>
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat-square&logo=MongoDB&logoColor=539E43" height="24px" />
+  </span>
+  <span>
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FCCA3F?style=flat-square&logo=Firebase&logoColor=white" height="24px" />
+  </span>
+  <span>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-DE4C36?style=flat-square&logo=Git&logoColor=white" height="24px" />
+  </span>
+</div>
 
 <br />
 
 **🎗️ I usually use**
 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-37A6F2?style=flat-square&logo=VisualStudioCode&logoColor=white" height="24px" />
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" height="24px" />
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-A259FF?style=flat-square&logo=Figma&logoColor=white" height="24px" />
-<img alt="Windows" src="https://img.shields.io/badge/-Windows 11-00ADEF?style=flat-square&logo=Windows&logoColor=white" height="24px" />
-<img alt="Windows Terminal" src="https://img.shields.io/badge/-Windows Terminal-000000?style=flat-square&logo=WindowsTerminal&logoColor=white" height="24px" />
-<img alt="Powershell" src="https://img.shields.io/badge/-Powershell-0277BD?style=flat-square&logo=Powershell&logoColor=white" height="24px" />
+
+<div>
+  <span>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-37A6F2?style=flat-square&logo=VisualStudioCode&logoColor=white" height="24px" />
+  </span>
+  <span>
+    <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" height="24px" />
+  </span>
+  <span>
+    <img alt="Figma" src="https://img.shields.io/badge/-Figma-A259FF?style=flat-square&logo=Figma&logoColor=white" height="24px" />
+  </span>
+  <span>
+    <img alt="Windows" src="https://img.shields.io/badge/-Windows 11-00ADEF?style=flat-square&logo=Windows&logoColor=white" height="24px" />
+  </span>
+  <span>
+    <img alt="Windows Terminal" src="https://img.shields.io/badge/-Windows Terminal-000000?style=flat-square&logo=WindowsTerminal&logoColor=white" height="24px" />
+  </span>
+  <span>
+    <img alt="Powershell" src="https://img.shields.io/badge/-Powershell-0277BD?style=flat-square&logo=Powershell&logoColor=white" height="24px" />
+  </span>
+</div>
 
 <br />
 
