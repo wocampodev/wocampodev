@@ -98,9 +98,3 @@
     <img alt="Powershell" src="https://img.shields.io/badge/-Powershell-0277BD?style=flat-square&logo=Powershell&logoColor=white" height="24px" />
   </span>
 </div>
-
-<br />
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=wocampodev&label=Profile%20views&color=0e75b6&style=flat" alt="wocampodev" />
-</p>
