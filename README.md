@@ -11,7 +11,7 @@
 
 **🐱 About me**
 
-> 🔭 I’m a web developer.
+> 🔭 I’m a software developer.
  >
 > ⚡ I spend my time thinking and coding.
  >
