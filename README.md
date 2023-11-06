@@ -8,12 +8,3 @@
 <p align="center">
   📢 I'm <b>Walter Ocampo</b>, a passionate self-taught software developer ✌️
 </p>
-
-**🐱 About me**
-
-> 🔭 I’m a software developer.
- >
-> ⚡ I spend my time thinking and coding.
- >
-> 🌱 Learning something new every day.
- >
