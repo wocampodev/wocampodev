@@ -6,5 +6,5 @@
 </h1>
 
 <p align="center">
-  📢 I'm <b>Walter Ocampo</b>, a passionate self-taught software developer ✌️
+  📢 I'm a passionate self-taught software developer ✌️
 </p>
